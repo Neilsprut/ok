@@ -1,5 +1,5 @@
 # Portfolio Template using HTML, CSS, JS, and Three.Js
-This is a portfolio template designed to showcase your skills and projects in a visually appealing way. The template is built using HTML, CSS, and JavaScript, and utilizes the Three.Js library for impressive 3D transitions and animations.
+This is a portfolio template designed to showcase your skills and projects in a visually appealing way. The template is built using HTML, CSS, and JavaScript, and utilizes the Three.Js library for impressive 3D transitions and animati
 
 ## Features
 - Responsive design
